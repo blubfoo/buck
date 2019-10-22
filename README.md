@@ -5,6 +5,7 @@ Buck is a build tool. To see what Buck can do for you,
 check out the documentation at <http://buck.build/>.
 
 [![Build Status](https://travis-ci.org/facebook/buck.svg)](https://travis-ci.org/facebook/buck) [![Build status](https://ci.appveyor.com/api/projects/status/v64qh0cd2cp9uto8/branch/master?svg=true)](https://ci.appveyor.com/project/Facebook/buck/branch/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Fbuck.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Fbuck?ref=badge_shield)
 
 Installation
 ------------
@@ -47,3 +48,7 @@ Buck tries to move fast with respect to its internals. However, for user facing 
 License
 -------
 Apache License 2.0
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fblubfoo%2Fbuck.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fblubfoo%2Fbuck?ref=badge_large)
